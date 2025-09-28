@@ -55,7 +55,7 @@ Hi there! I’m **Vanshika** 👩‍💻 — a curious learner and creative buil
 > An AI-powered chatbot for **oceanography** that converts **NetCDF** data into **natural language answers**.  
 
 <div align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ2aWNsa2p2b2d4ZGV3bXNoaW80b3F1Z3VvOW5uY21sN3pxOTZ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="600" alt="Ocean bot gif">
 </div>
 
 ---
