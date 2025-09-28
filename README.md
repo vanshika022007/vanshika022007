@@ -102,10 +102,6 @@ Hi there! I’m **Vanshika** 👩‍💻 — a curious learner and creative buil
 
 > 🐬 The ocean covers 71% of the Earth — and with AI, we can explore its secrets better than ever! 🌊🤖  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/5qFZKjJbPjQ0k/giphy.gif" width="400" alt="Ocean gif">
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vanshika022007&icon=1&color=0)](https://visitcount.itsvg.in)
