@@ -1,9 +1,3 @@
-<!-- 🌟 HEADER BANNER -->
-<div align="center">
-  <img src="https://i.imgur.com/YqemGgH.png" alt="Vanshika Banner" width="100%">
-</div>
-
----
 
 # 💫 About Me  
 
